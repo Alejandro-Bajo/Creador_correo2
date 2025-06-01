@@ -1,6 +1,6 @@
 # 24/05/2025
 import tkinter as tk #importa el modulo tkinter y le asigna el alias(as) tk
-from tkinter import simpledialog , messagebox #desde tkinter inporta los sub modulos 
+from tkinter import simpledialog , messagebox #desde tkinter inporta los sub modulos simpledialog y messagebox
 
 ventana = tk.Tk()
 ventana.withdraw()
